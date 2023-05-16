@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently working  as Software Engineer in Back End Team at Amalan International Indonesia for building efficient and scalable system.<br>Now I'm learning about leadership and project management.<br>A self-driven and purposeful individual with critical thinking and passion<br>in software development. Eagerness on learning new things and<br>positively contributing to project given.
+I'm currently working  as Software Engineer in Back End Team at amalan international indonesia Pte Ltd for building efficient and scalable system.<br>Now I'm learning about leadership and project management.<br>A self-driven and purposeful individual with critical thinking and passion<br>in software development. Eagerness on learning new things and<br>positively contributing to project given.
 
 
 ## 🌐 Socials:
