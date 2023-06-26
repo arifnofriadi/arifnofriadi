@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineer currently employed at Amalan International Indonesia Pte Ltd, where I work on the Back-End Team. My primary focus is on developing efficient and scalable systems. Alongside my technical expertise, I am also dedicated to enhancing my leadership and project management skills.<br>I consider myself a self-driven and purposeful individual with a strong aptitude for critical thinking. Passionate about software development, I am constantly seeking opportunities to learn and grow. I approach each project with eagerness, aiming to make a positive impact and contribute effectively to its success.
+I am a Software Engineer currently employed at Amalan International Pte Ltd, where I work on the Back-End Team. My primary focus is on developing efficient and scalable systems. Alongside my technical expertise, I am also dedicated to enhancing my leadership and project management skills.<br>I consider myself a self-driven and purposeful individual with a strong aptitude for critical thinking. Passionate about software development, I am constantly seeking opportunities to learn and grow. I approach each project with eagerness, aiming to make a positive impact and contribute effectively to its success.
 
 
 ## 🌐 Socials:
